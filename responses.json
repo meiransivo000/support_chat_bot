@@ -1,0 +1,34 @@
+{
+  "responses": {
+    "order_not_visible": [
+      "I’m sorry to hear that, I can’t see your order right now. Please refresh the app and check again.",
+      "Try reopening the app and checking your order history. This may help",
+      "Please wait a moment and look for a new notification about your order status."
+    ],
+    "order_stolen": [
+      "I’m sorry to hear that. Please check around your door or delivery area first.",
+      "We are sorry to hear that. Our company can help you request a replacement or refund.",
+      "Please report the order as missing so support can investigate the courier’s delivery. We will do our best for our clients interest side"
+    ],
+    "food_damaged": [
+      "I’m sorry your food arrived damaged. We will find solution",
+      "Please send a photo of the order so we can review it.",
+      "Tell us what was damaged, and we’ll help with compensation."
+    ],
+    "greeting": [
+      "Hello! How can I help with your order today?",
+      "Hi! Tell me what happened with your delivery.",
+      "Hey! I’m here to help with your food order."
+    ],
+    "goodbye": [
+      "Goodbye!",
+      "Take care!",
+      "Hope your next order goes smoothly!"
+    ],
+    "unknown": [
+      "I’m not fully sure what happened. Could you describe the order issue in more detail?",
+      "Please tell me a bit more about the delivery problem.",
+      "I need a little more information to help with your order."
+    ]
+  }
+}

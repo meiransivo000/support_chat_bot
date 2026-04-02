@@ -1,0 +1,55 @@
+{
+  "training_data": [
+    {
+      "tag": "order_not_visible",
+      "patterns": [
+        "my order is not visible",
+        "I cannot find my order",
+        "I can't see my order",
+        "where is my order",
+        "my order disappeared",
+        "order not showing up"
+      ]
+    },
+    {
+      "tag": "order_stolen",
+      "patterns": [
+        "my order was stolen",
+        "somebody stole my order",
+        "my food is missing",
+        "courier came with no order",
+        "my order got lost",
+        "my delivery is missing"
+      ]
+    },
+    {
+      "tag": "food_damaged",
+      "patterns": [
+        "my food came damaged",
+        "my order was damaged",
+        "the food was spilled",
+        "the packaging was broken",
+        "my meal arrived ruined",
+        "the food arrived cold and damaged"
+      ]
+    },
+    {
+      "tag": "greeting",
+      "patterns": [
+        "hello",
+        "hi",
+        "good morning",
+        "hey"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "bye",
+        "goodbye",
+        "see you later",
+        "exit"
+      ]
+    }
+  ]
+}
