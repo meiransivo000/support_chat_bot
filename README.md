@@ -1,4 +1,4 @@
-# Example of food delivery support chatbot
+# Food delivery support chatbot
 
 A primitive chatbot built with Python that helps users resolve common food delivery issues like:
 
